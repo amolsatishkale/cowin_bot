@@ -9,3 +9,6 @@ Example:
   - SAMATANAGAR
   - MIRAJ URBAN
 ```
+Then trigger the .exe file
+Now it will keep on checking all the vaccination centers for slots availability
+An alarm will be triggered when it will detect any slot
