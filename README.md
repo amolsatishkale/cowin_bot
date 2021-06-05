@@ -9,6 +9,11 @@ Example:
   - SAMATANAGAR
   - MIRAJ URBAN
 ```
+
+Example2: Pin code without center names, it will check all available centers in that pin code
+```
+416416:
+```
 Then trigger the .exe file
 Now it will keep on checking all the vaccination centers for slots availability,
 An alarm will be triggered when it will detect any slot
